@@ -1,13 +1,11 @@
 # Flutter Instagram App UI
 
 
+i tried to emplement a story  Ui in flutter without  (with just some dummy data  and no serverSide Rendering)
 
 
+#Screen Shot from the app
 
-| ![](https://github.com/dhruvilxcode/flutter-instagram-ui/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-02-14%20at%2016.40.23.png?raw=true)  |  ![](https://github.com/dhruvilxcode/flutter-instagram-ui/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-02-14%20at%2016.40.29.png?raw=true) |
-| :------------: | :------------: |
-| ![](https://github.com/dhruvilxcode/flutter-instagram-ui/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-02-14%20at%2016.40.36.png?raw=true)  | ![](https://github.com/dhruvilxcode/flutter-instagram-ui/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-02-14%20at%2016.40.36.png?raw=true)  |
-
-
+![screen](https://user-images.githubusercontent.com/52293289/110224147-0e69a000-7ed1-11eb-8d08-663c570d3714.png)
 
 ------------
